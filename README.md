@@ -10,3 +10,5 @@ The objective is to predict whether the article is relevant to the user's inform
 Predict the Judgement: 0 is not relevant, 1 is relevant.
 
 The performance of the machine learning implementation is measured by the accuracy score
+
+Enjoy!!!
